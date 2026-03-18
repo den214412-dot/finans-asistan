@@ -1,0 +1,8 @@
+{
+  "name": "Finans Asistanı",
+  "short_name": "Finans",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F8FC",
+  "theme_color": "#059669"
+}
